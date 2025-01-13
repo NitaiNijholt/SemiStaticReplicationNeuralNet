@@ -1,6 +1,6 @@
 # SemiStaticReplicationNeuralNet
 
-## Project Sunmmar
+## Project Sunmmary
 
 In this project, we replicate and extend the framework by Lokeswarh et al. for pricing and hedging path-dependent options that combines regress-later Monte Carlo with shallow neural networks (RLNN), enabling both semi-static and fully static replication strategies. By training simple feedforward networks on simulated paths, we obtain closed-form approximations for Bermudan-style continuation values and explicit decomposition into simple European options.
 
